@@ -19,3 +19,6 @@ JavaScript, HTML5, CSS3
 - Integrated all the pages successfully,
 - Developed the Series page, News Page, Features Page, Teams Page
 - Built future series/tournaments, international tours pages ,
+- used Fetch Api features to make responsive website 
+ Deplyed link
+  https://comforting-granita-9e8464.netlify.app/
